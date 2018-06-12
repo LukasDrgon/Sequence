@@ -57,6 +57,12 @@ or [NPM](https://www.npmjs.org/):
 npm install sequencejs
 ```
 
+or include it via [CDN](https://www.jsdelivr.com/package/npm/sequencejs):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/sequencejs/scripts/sequence.min.js"></script>
+```
+
 ## Philosophy
 
 Sequence.js aims to provide a complete animation framework for you to create animated step-based applications almost entirely in CSS without getting in the way of how you or a web browser work. Create content and then animate it using the HTML, CSS, and workflow you're used to. Sequence.js will take care of the JavaScript functionality. There's no special syntax to learn, no limitations on the workflow you are used to, and no heavy JavaScript implementations recreating what the browser is already capable of.
